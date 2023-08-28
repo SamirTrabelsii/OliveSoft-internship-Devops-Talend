@@ -1,0 +1,4 @@
+apiVersion: v1
+description: A Helm chart for a Talend Job deployed as a Kubernetes Job
+name: j1-getting-started-completed
+version: 0.1.0

@@ -1,0 +1,10 @@
+image:
+  repository: trabelsii/j1_getting_started_completed
+  tag: 0.1.0
+  pullPolicy: IfNotPresent
+cron:
+  schedule: "*/1 * * * *"
+restartPolicy: OnFailure
+# successfulJobsHistoryLimit: 5
+# failedJobsHistoryLimit: 5 
+# numRow: 1
